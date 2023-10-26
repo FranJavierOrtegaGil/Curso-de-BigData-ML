@@ -5,6 +5,11 @@ Datasets
   Dataset_part_1
 
   Dataset_part_2
+
+  Datasets Dia 3
+    - Canada
+    - world_countries
+    - Police_Incidents
   
 Carpeta: Dia 1 ML
 ---
@@ -28,3 +33,16 @@ Archivos:
   03 - (Fco. Javier) Copia de SpaceX - 3 -EDA Using SQL: EDA usando SQL en Python
 
   04 - (Fco. Javier) Copia de SpaceX - 4 - EDA with Data Visualization: EDA con visualizacion de datos (Graficas)
+
+  
+  Carpeta: Dia 3 ML
+  ---
+Archivos:
+
+  01 - (Fco. Javier) Dia 3 01 Copia de Prophet v2 - Predecir el valor de Bitcoin. Javier) Dia 3 Copia de Prophet v2 - Predecir el valor de Bitcoin:  Predecir valores futuro con libreria de Facebook Prophet
+  
+  02 - (Fco. Javier) Dia 3 02 Copia de M5 - 06 - Introducción a Machine Learning con Scikit-Learn: Introduccion libreria Scikit-Learn
+  
+  03 - (Fco. Javier) Dia 3 03 Copia de M5 - 09 - Folium: Introduccion libreria Folium visualizacion de mapas
+
+  
