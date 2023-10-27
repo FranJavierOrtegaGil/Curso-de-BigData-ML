@@ -6,13 +6,23 @@ Datasets
 
   Dataset_part_2
 
-  Datasets Dia 3
+  Datasets Dia 3:
   
     - Canada
     
     - world_countries
     
     - Police_Incidents
+
+  Datasets Dia 4:
+  
+    - dataset_one-hot
+    
+    - dataset_part_1
+    
+    - datasets_eda
+    
+    - spacex_launch_geo
   
 Carpeta: Dia 1 ML
 ---
@@ -47,5 +57,15 @@ Archivos:
   02 - (Fco. Javier) Dia 3 02 Copia de M5 - 06 - Introducción a Machine Learning con Scikit-Learn: Introduccion libreria Scikit-Learn
   
   03 - (Fco. Javier) Dia 3 03 Copia de M5 - 09 - Folium: Introduccion libreria Folium visualizacion de mapas
+
+ Carpeta: Dia 4 ML
+  ---
+Archivos:
+
+  01 - (Fco. Javier) Dia 4 01 Copia de M5 - SPACEX2 - 6 - Machine Learning Predicciones:  Predecir valores ML de la database de spaceX
+  
+  02 - (Fco. Javier) Dia 4 02 Copia de M5 - SPACEX2 - 5 - Interactive Visual Analytics con Folium: Folium de spaceX
+  
+  03 - (Fco. Javier) Dia 4 03 Copia de SpaceX - 2 - EDA: EDA de spaceX
 
   
